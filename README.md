@@ -20,7 +20,7 @@ Discode：MaSTer#4933
 
 今やってるゲーム：Battlefield2042
 
-E-mail：htakuma@masterak-arch.com
+E-mail：htakuma@masterak.jp
 
 Twitter：「[MASTERAK](https://twitter.com/MaSTerAK_O2O9)」
 
