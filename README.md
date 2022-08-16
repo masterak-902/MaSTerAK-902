@@ -13,7 +13,7 @@ Discode：MaSTer#4933
 
 ゲーム友達・初心者プログラマー・電子工作とかとか交流出来たらいいなーと思います。
 
-主に使用する言語：C# Python C/C++ VBA JavaScript
+主に使用する言語：C# Python C/C++ VBA JavaScript Typescript
 
 今現在、勉強中の言語：Typescript
 
