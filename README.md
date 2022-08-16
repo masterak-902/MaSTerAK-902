@@ -17,7 +17,7 @@ Discode：MaSTer#4933
 
 今現在、勉強中の言語：Typescript
 
-今やってるゲーム：Battlefield2042 一緒にやる仲間探してます！
+今やってるゲーム：Battlefield2042 いっしょにやる仲間探してます！
 
 E-mail：hsn-software@masterak.jp
 
