@@ -21,16 +21,6 @@ E-mail：hsn-software@masterak.jp
 
 Twitter：「[MASTERAK](https://twitter.com/MaSTerAK_O2O9)」
 
-## Self Intoduction
-
-I'm Hoshino, and my HN is 'masterak.
-
-Born in 1998. from JP
-
-Ahh... I'm not good Eglish. If you have comments, plz write them in sinple English.
-
-Discode：MaSTer#4933
-
 ## その他
 
 掲載しているソフトウェアに第三者の著作権侵害やガイドライン違反に該当する箇所が見つかった場合はご連絡ください。
