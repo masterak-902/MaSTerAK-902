@@ -13,7 +13,7 @@ Discode：MaSTer#4933
 
 主に使用する言語：C# Python C/C++ VBA JavaScript Typescript
 
-今現在、勉強中の言語：Typescript
+今現在、勉強中の言語：Golang
 
 E-mail：hsn-software@masterak.jp
 
