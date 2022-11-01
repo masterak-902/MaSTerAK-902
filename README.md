@@ -13,6 +13,8 @@ Discode：MaSTer#4933
 
 主に使用する言語：C# Python C/C++ VBA JavaScript Typescript
 
+その他ソフトウェア：Adobe Kicad Fusion360 ...
+
 今現在、勉強中の言語：Golang
 
 E-mail：hsn-software@masterak.jp
