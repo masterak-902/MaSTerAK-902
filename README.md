@@ -1,4 +1,3 @@
-README...
 ## 自己紹介
 
 「masterak」という名前でネットの海を彷徨っています。
@@ -15,7 +14,7 @@ Discode：MaSTer#4933
 
 その他ソフトウェア：Adobe Kicad Fusion360 ...
 
-今現在、勉強中の言語：Golang
+勉強中の言語：Rust
 
 E-mail：hsn-software@masterak.jp
 
