@@ -16,7 +16,7 @@ Discode：MaSTer#4933
 
 勉強中の言語：Rust
 
-E-mail：hsn.software@masterak.jp
+E-mail：smart.wing1309@fastmail.com
 
 Twitter：「[MASTERAK](https://twitter.com/MaSTerAK_O2O9)」
 
