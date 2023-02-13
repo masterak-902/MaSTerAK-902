@@ -6,15 +6,7 @@
 
 大学中退後、実家の手伝いをしながら個人事業主として細々と暮らしています。
 
-Discode：MaSTer#4933
-
-プログラマ・電子工作とかとか交流出来たらいいなーと思います。
-
-主に使用する言語：C# Python C/C++ VBA JavaScript Typescript
-
-その他ソフトウェア：Adobe Kicad Fusion360 ...
-
-勉強中の言語：Rust
+Discode：MaSTer#4933 
 
 E-mail：smart.wing1309@fastmail.com
 
