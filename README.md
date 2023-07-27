@@ -4,8 +4,6 @@
 
 1998年生まれ
 
-大学中退後、実家の手伝いをしながら個人事業主として細々と暮らしています。
-
 Discode：MaSTer#4933 
 
 E-mail：smart.wing1309@fastmail.com
