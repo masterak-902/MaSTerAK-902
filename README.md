@@ -8,8 +8,6 @@ Discode：MaSTer#4933
 
 E-mail：smart.wing1309@fastmail.com
 
-Twitter：「[MASTERAK](https://twitter.com/MaSTerAK_O2O9)」
-
 ## その他
 
 掲載しているソフトウェアに第三者の著作権侵害やガイドライン違反に該当する箇所が見つかった場合はご連絡ください。
