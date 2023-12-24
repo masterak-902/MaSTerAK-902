@@ -6,7 +6,7 @@
 
 Discode：MaSTer#4933 
 
-E-mail：smart.wing1309@fastmail.com
+連絡先：hsn-software@masterak.jp
 
 ## その他
 
