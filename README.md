@@ -4,8 +4,7 @@
 
 1998年生まれ
 
-お仕事のご連絡はこちらから：[coconala](https://coconala.com/users/3051961)
-
+お仕事：[coconala](https://coconala.com/users/3051961)
 連絡先：hsn-software@masterak.jp
 
 ## その他
