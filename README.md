@@ -9,7 +9,6 @@
 
 ホームページ：[ホシノソフトウェア（停止中）](https://masterak.jp)<br>
 テックブログ：[Zenn](https://zenn.dev/masterak)<br>
-ご依頼：[coconala](https://coconala.com/users/3051961)<br>
 E-mail：hsn-software@masterak.jp<br>
 
 <br>
