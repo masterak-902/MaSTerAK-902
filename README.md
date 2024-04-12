@@ -4,7 +4,7 @@
 
 1998年生まれ
 
-Discode：MaSTer#4933 
+お仕事のご連絡は[こちら](https://coconala.com/users/3051961)から
 
 連絡先：hsn-software@masterak.jp
 
