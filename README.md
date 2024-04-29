@@ -7,7 +7,6 @@
 
 ## お仕事 Business
 
-ホームページ：[ホシノソフトウェア（停止中）](https://masterak.jp)<br>
 テックブログ：[Zenn](https://zenn.dev/masterak)<br>
 E-mail：hsn-software@masterak.jp<br>
 
