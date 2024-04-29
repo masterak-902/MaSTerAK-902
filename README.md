@@ -2,16 +2,7 @@
 
 「**masterak**」という名前でネットの海を彷徨っています。
 
-<br>
-<br>
-
-## お仕事 Business
-
-テックブログ：[Zenn](https://zenn.dev/masterak)<br>
-E-mail：hsn-software@masterak.jp<br>
-
-<br>
-<br>
+  **E-mail：hsn-software@masterak.jp**
 
 ## その他 Other
 
